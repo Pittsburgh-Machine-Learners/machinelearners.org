@@ -1,0 +1,12 @@
+#row1{
+    background-image: url('https://secure.meetupstatic.com/photos/event/6/4/f/b/highres_458185851.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#row1>div, #row2>div, #row3>div, #row4>div{
+    height: 200px;
+    max-width: 900px;
+}
+#row1 #join{
+    background-color: black;
+}
