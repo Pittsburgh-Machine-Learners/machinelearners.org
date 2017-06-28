@@ -1,8 +1,15 @@
+#row0{
+    min-height: 200px;
+    max-width: 1200px;
+    padding-left: 50px;
+    padding-right: 50px;
+    box-sizing: border-box;
+}
 #row1{
-    /*background-image: url('../img/cover.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;*/
     background-color: steelblue;
+}
+.mdl-button{
+    margin-bottom: 10px;
 }
 #row1>div{
     color: white;
