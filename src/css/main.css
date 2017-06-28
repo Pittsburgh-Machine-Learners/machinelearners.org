@@ -1,10 +1,14 @@
 #row1{
-    background-image: url('https://secure.meetupstatic.com/photos/event/6/4/f/b/highres_458185851.jpeg');
+    /*background-image: url('../img/cover.jpg');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover;*/
+    background-color: steelblue;
 }
 #row1>div{
     color: white;
+}
+#row2{
+    padding-top: 0;
 }
 #row3{
     background-color: #f5f5f5;
